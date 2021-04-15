@@ -1,7 +1,10 @@
 # IsaacDungeonRblx
+IsaacDungeonRblx is an attempt to mirror the algorithm for the binding of isaac 
 
 
 # How to use
+
+Simply get the model from [here](https://www.roblox.com/library/6685544942/Binding-Of-Isaac-Dungeon-Generator) and follow the ReadMe once loaded into roblox studio.
 
 
 # Useful functions
